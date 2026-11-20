@@ -1,0 +1,15 @@
+{
+  "name": "Segnapunti di Morcar",
+  "short_name": "Morcar",
+  "description": "Segnapunti vita per due giocatori – Powered by Morcar the Wizard",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#040304",
+  "theme_color": "#0b0a0d",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
